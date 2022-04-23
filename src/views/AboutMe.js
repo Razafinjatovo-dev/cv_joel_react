@@ -5,6 +5,7 @@ import Reacteur from "../components/Reacteur";
 import CodingAcademy from "../components/CodingAcademy";
 import KedgeBs from "../components/KedgeBs";
 import MasterUniv from "../components/MasterUniv";
+import LyraExp from '../components/LyraExp';
 
 const AboutMe = () => {
     return (
@@ -31,6 +32,7 @@ const AboutMe = () => {
             </div>
             <div>
                 <h1>Expériences Professionnelles</h1>
+                <LyraExp/>
                 <WebDevExp/>
                 <BuyerExp/>
             </div>

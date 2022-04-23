@@ -17,6 +17,7 @@ const Reacteur = () => {
                 <p>Programmation en Javascript</p>
                 <p>Interfaces Web dynamiques en React JS</p>
                 <p>Serveur en Javascript: Node JS, Express JS</p>
+                <p>Base de données NoSql: MongoDB</p>
                 <p>Création d'API</p>
                 <p>Déploiement: Netlify, Heroku</p>
                 <p>Mobile: React Native</p>
