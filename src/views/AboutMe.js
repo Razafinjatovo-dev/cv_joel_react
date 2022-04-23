@@ -20,12 +20,10 @@ const AboutMe = () => {
                     Ancien Acheteur dans l'industrie, ma passion pour le monde du numérique m'a amené à
                     entamer ma reconversion professionnelle dans le
                     Développement Web. <br/>
-                    Dans le cadre de ma formation au sein de la CODING ACADEMY EPITECH, je recherche un stage de 4 à 6
-                    mois en tant que Développeur Front-End ou Fullstack pouvant démarrer à compter du 1er mars. <br/>Je
-                    m'intéresse particulièrement aux technologies basées autour de Javascript (Typescript, React JS,
-                    Redux,
-                    NextJs,
-                    Node JS, MongoDB, ExpressJS, Nest JS et React Native). <br/>
+                    Fort de mes formations et stages en entreprise dans le développement web, je recherche à présent un poste de Développeur Front-End/Fullstack
+                     <br/>Je
+                    m'intéresse particulièrement aux technologies basées autour de Javascript (Typescript, React JS, Redux, Next JS,
+                    Node JS, MongoDB, ExpressJS, Nest JS). <br/>
                     Vous trouverez à travers ce site les informations relatives à mon parcours ainsi que les projets que
                     j'ai développés. <br/> <span> Bonne visite et à bientôt!<img src='/images/smiley.png' style={{width:'20px',marginLeft:'5px', position:'relative', top: '3px'}}/></span>
                 </p>
