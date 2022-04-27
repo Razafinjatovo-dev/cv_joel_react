@@ -35,7 +35,7 @@ const Portfolio = () => {
             name: 'Widgets',
             // screenShots: ['/images/widgets_home.png','/images/widgets_register.png','/images/widgets_crypto.png'],
             screenShots: ['/images/widgets_home.png'],
-            url: 'https://widgets-dashboard.netlify.app/',
+            url: 'https://dashboard-widgets.netlify.app/',
             stack: {
                 'front': ['React JS'],
                 'back': ['Typescript','Nest JS','MongoDB']
