@@ -27,7 +27,7 @@ const LyraExp = () => {
           Etude et Compréhension de l'architecture des tests end-to-end
           Nightwatch existants
         </p>
-        <p>Migration des test Nightwatch vers TestCafe</p>
+        <p>Migration des tests end-to-end de Nightwatch vers TestCafe</p>
         <p>Industrialisation via la chaîne d'intégration</p>
         <h4>Environnement technique:</h4>
         <div>
